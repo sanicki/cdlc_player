@@ -60,6 +60,7 @@ import java.io.File
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.roundToInt
+import kotlin.math.roundToLong
 
 class ViewerActivity : AppCompatActivity() {
     private val songViewModel : SongViewModel by viewModels()
